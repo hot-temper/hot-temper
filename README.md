@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align ="Left">
+<img height="225px" src="https://www.careersingovernment.com/tools/wp-content/uploads/2017/08/cyber-security-banner.jpg" alt="Banner Image">
+</p>
 
-<!--
-**hot-temper/hot-temper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi ,I'm Saif Ahmed Shuvo 👋
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on building secure Networking infrastructure.
+- 🌱 I’m currently learning SOC(Security Operation Center).
+- 👯 I’m looking to collaborate on SOC projects.
+- 🤔 I’m looking for help with securing digital world.
+- 📫 How to reach me: shaifshuvo46@gmail.com
+###
+### **Technical Skills**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img align ="Left" src="https://skillicons.dev/icons?i=kali,linux,bash,powershell,mysql,py,aws" />
+</p>
