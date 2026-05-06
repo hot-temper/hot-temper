@@ -241,6 +241,8 @@ STRIDE          ████████████████░░░░  Pr
 [![Email](https://img.shields.io/badge/Email-saifahmedshuvo28%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifahmedshuvo28@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-hot--temper-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hot-temper)
 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-hottemper-87CEEB?style=for-the-badge&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/hottemper)
+[![LetsDefend](https://img.shields.io/badge/LetsDefend-hot_temper-FADADD?style=for-the-badge&logo=shield&logoColor=black)](https://app.letsdefend.io/user/hot_temper)
 </div>
 
 ---
